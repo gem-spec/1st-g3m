@@ -12,9 +12,6 @@ int main(){
 	printf("Enter the ReturnDate: \t");
 	scanf("%d",&ReturnDate);
 	
-	printf("Enter the fineAmount: \t");
-	scanf("%d",&fineAmount);
-	
 	daysOverdue = ReturnDate - DueDate;
 	
 	printf("Days Overdue = %d.\n",daysOverdue);
