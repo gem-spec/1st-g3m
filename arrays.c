@@ -1,6 +1,6 @@
 /*
-Author: Samuel Owino Bless
-Date: 10/2/2026
+Author: Gemenet Tracey
+
 */
 
 #include <stdio.h>
